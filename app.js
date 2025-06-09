@@ -15,7 +15,7 @@ function exibirMensagemInicial() {
 }
 
 exibirMensagemInicial();
-
+console.log("testando github");
 function verificarChute() {
     let chute = document.querySelector('input').value;
     
